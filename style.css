@@ -1,6 +1,15 @@
+#title {
+    align-self: center;
+}
+
 #cat_picture {
     max-width:30%;
     max-height:30%;
+    align-self: center;
+}
+
+#list {
+    align-self: center;
 }
 
 body {
