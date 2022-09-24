@@ -3,11 +3,7 @@ html {
 }
 
 body {
-    background-color: linear-gradient (
-        to right,
-        pink,
-        paleturquoise
-    );
+    background-color: pink;
 }
 
 #title_div {
