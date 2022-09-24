@@ -12,10 +12,6 @@ body {
         paleturquoise 50%,
         paleturquoise 100%
     );
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 #title {
