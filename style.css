@@ -22,14 +22,11 @@ body {
     text-align: center;
 }
 
-#cat_picture_div {
+#cat_picture {
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
-}
-
-#cat_picture {
     max-width:30%;
     max-height:30%;
 }
