@@ -3,7 +3,7 @@
     margin: 0;
 }
 
-/* body {
+body {
     height: 100vh;
     background-color: linear-gradient (
         to right,
@@ -12,11 +12,11 @@
         paleturquoise 50%,
         paleturquoise 100%
     );
-} */
-
-body {
-    background-color: pink;
 }
+
+/* body {
+    background-color: pink;
+} */
 
 #title_div {
     text-align: center;
