@@ -37,6 +37,7 @@ body {
 }
 
 #cat_table_div {
+    margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -45,4 +46,6 @@ body {
 #github_url_div {
     margin-top: 50px;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
