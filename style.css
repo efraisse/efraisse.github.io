@@ -18,11 +18,11 @@ body {
     background-color: pink;
 }
 
-#title {
+#title_div {
     text-align: center;
 }
 
-#cat_picture {
+#cat_picture_div {
     max-width:30%;
     max-height:30%;
     display: block;
@@ -31,7 +31,7 @@ body {
     margin-top: 50px;
 }
 
-#list {
+#list_div {
     margin-top: 50px;
     text-align: center;
 }
