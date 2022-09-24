@@ -38,6 +38,9 @@ body {
 
 #cat_table_div {
     margin-top: 50px;
+}
+
+#cat_table {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
