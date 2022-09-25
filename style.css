@@ -25,6 +25,10 @@ body {
     text-align: center;
 }
 
+#list  {
+    display:list-item;
+}
+
 #cat_table_div {
     margin-top: 50px;
 }
