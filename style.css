@@ -20,15 +20,12 @@ body {
     max-height:30%;
 }
 
-/* #list_div {
+#list_div {
     margin-top: 50px;
     text-align: center;
+    display: list-item;
     margin: 0 auto;
 }
-
-#list {
-    text-align: center;
-} */
 
 #cat_table_div {
     margin-top: 50px;
