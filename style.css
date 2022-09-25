@@ -22,6 +22,7 @@ body {
 
 #list {
     list-style-type: disc;
+    padding: 30px;
 }
 
 #cat_table_div {
