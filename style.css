@@ -21,7 +21,15 @@ body {
 
 #list_div {
     margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
+}
+
+#list {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #cat_table_div {
