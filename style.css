@@ -12,6 +12,8 @@ body {
 }
 
 #list {
+    display: inline-block;
+    text-align: left;
     list-style-type: disc;
     padding: 30px;
 }
