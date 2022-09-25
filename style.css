@@ -23,12 +23,6 @@ body {
 #list_div {
     margin-top: 50px;
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#list {
-    text-align: center;
 }
 
 #cat_table_div {
