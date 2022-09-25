@@ -25,8 +25,8 @@ body {
     text-align: center;
 }
 
-#list  {
-    display:list-item;
+#list {
+    list-style-type: square;
 }
 
 #cat_table_div {
