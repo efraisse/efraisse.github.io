@@ -15,12 +15,18 @@ body {
     max-height:30%;
 }
 
-#list_div {
+/* #list_div {
     margin-top: 50px;
     text-align: center;
-}
+    margin-left: auto;
+    margin-right: auto;
+} */
 
 #list {
+    margin-top: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     list-style-type: disc;
     padding: 30px;
 }
